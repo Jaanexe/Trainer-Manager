@@ -1,3 +1,5 @@
+[![Download Latest](https://img.shields.io/github/v/release/Jaanexe/Trainer-Manager?color=brightgreen&label=Download&logo=github)](https://github.com/Jaanexe/Trainer-Manager/releases/latest)
+
 # Game Trainer Manager
 
 A lightweight, secure, local-first application for managing game trainer files (.exe). Built with Python and PySide6, featuring multi-language support, metadata management, and optional security scanning.
